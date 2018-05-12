@@ -1,0 +1,102 @@
+_repo: Tales-from-the-German-Comprising-specimens-from-the-most-celebrated-authors_32046
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Immermann, Karl Leberecht
+    birthdate: 1796
+    deathdate: 1840
+    gutenberg_agent_id: '42746'
+    url: http://www.gutenberg.org/2009/agents/42746
+  - agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+  - agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Friedrich von
+    - Schiller, Johann Christoph Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+  - agent_name: Musäus, Johann Karl August
+    aliases:
+    - Musaus, Johann Karl August
+    - Musaeus, J. K. A. (Johann Karl August)
+    - Johann Karl August Musäus
+    birthdate: 1735
+    deathdate: 1787
+    gutenberg_agent_id: '31396'
+    url: http://www.gutenberg.org/2009/agents/31396
+  - agent_name: Velde, C. F. van der (Carl Franz)
+    aliases:
+    - Velde, Karl Franz van der
+    - Van der Velde, C. F. (Carl Franz)
+    - Velde, Carl Franz van der
+    birthdate: 1779
+    deathdate: 1824
+    gutenberg_agent_id: '35650'
+    url: http://www.gutenberg.org/2009/agents/35650
+  - agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+    aliases:
+    - Hoffmann, E.T.A.
+    - Hoffmann, Ernst Theodor Wilhelm
+    - Hoffmann, Ernst Theodor Amadeus
+    birthdate: 1776
+    deathdate: 1822
+    gutenberg_agent_id: '2008'
+    url: http://www.gutenberg.org/2009/agents/2008
+    wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
+  - agent_name: Kleist, Heinrich von
+    aliases:
+    - Kleist, H. V. (Heinrich von)
+    - Kleist, Bernd Heinrich Wilhelm von
+    - Von Kleist, Heinrich
+    birthdate: 1777
+    deathdate: 1811
+    gutenberg_agent_id: '2127'
+    url: http://www.gutenberg.org/2009/agents/2127
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Kleist
+  translators:
+  - agent_name: Oxenford, John
+    birthdate: 1812
+    deathdate: 1877
+    gutenberg_agent_id: '4723'
+    url: http://www.gutenberg.org/2009/agents/4723
+    wikipedia: http://en.wikipedia.org/wiki/John_Oxenford
+  - agent_name: Feiling, C. A.
+    gutenberg_agent_id: '35634'
+    url: http://www.gutenberg.org/2009/agents/35634
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+tableOfContents: 'Libussa, by J. H. Musaeus [i.e. J. K. Musaeus] -- The criminal from
+  lost honour, by Friedrich Schiller -- The cold heart, by Wilhelm Hauff -- The wonders
+  in the Spessart, by Karl Immermann -- Nose, the dwarf, by W. Hauff -- Axel: a tale
+  of the Thirty Years'' War, by C. F. Van der Velde -- The sandman, by E. T. W. Hoffmann
+  -- Michael Kohlhaas, by Heinrich von Kleist -- The Klausenburg, by Ludwig Tieck
+  -- The moon, by Jean Paul Friedrich Richter -- The elementary spirit, by E. T. W.
+  Hoffmann -- St. Cecilia; or, The power of music, by H. von Kleist -- The new Paris,
+  by J. W. Goethe -- Ali and Gulhyndi, by A. Oehlenschlaeger -- Alamontade, by Heinrich
+  Zschokke -- The Jesuits'' church in G--, by E. T. W. Hoffmann -- The severed hand,
+  by W. Hauff.'
+title: Tales from the German, Comprising specimens from the most celebrated authors
+url: http://www.gutenberg.org/ebooks/32046
