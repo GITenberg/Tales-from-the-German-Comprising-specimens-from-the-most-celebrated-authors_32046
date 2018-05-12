@@ -76,6 +76,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32046#Tales-from-the-German-Comprising-specimens-from-the-most-celebrated-authors
 gutenberg_issued: '2010-04-18'
 gutenberg_type: Text
 identifiers:
